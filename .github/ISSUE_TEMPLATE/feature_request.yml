@@ -1,0 +1,26 @@
+name: "💡 Özellik önerisi"
+description: "ADB Player için geliştirme ve kullanım deneyimi önerisi"
+title: "[Öneri] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Öneriniz için teşekkürler. Lütfen gizli anahtar, hesap bilgisi veya özel bağlantı paylaşmayın.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Hangi sorunu çözmek istiyorsunuz?
+      description: Mevcut kullanım deneyimindeki ihtiyacı anlatın.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Önerdiğiniz çözüm
+      description: Nasıl çalışmasını istersiniz?
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Alternatifler veya ek bilgiler (isteğe bağlı)
