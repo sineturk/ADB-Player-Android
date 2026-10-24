@@ -1,7 +1,5 @@
 # ADB Player — Android
 
-> **Önemli yayın duyurusu (24 Ekim 2026):** v0.5.4 sürümünde üyelik doğrulaması bazı medya özelliklerini engelliyor. Bu sürümün kurulmasını şimdilik önermiyoruz. **Tamamen ücretsiz erişim sağlayan düzeltme sürümü hazırlanıyor.** Yeni APK yayımlandığında [Releases](https://github.com/sineturk/ADB-Player-Android/releases) bölümünde duyurulacak.
-
 **İçeriklerin, kaynakların ve izleme listelerin. Hepsi tek bir oynatıcıda.**
 
 ADB Player; filmlerini, dizilerini ve kişisel medya arşivini keşfetmeni, farklı kaynaklardan açmanı ve kaldığın yerden izlemeye devam etmeni sağlayan bir medya oynatıcıdır. Yerel dosyaların, bulut hesapların, Telegram ve eklentilerin tek bir deneyimde buluşur.
@@ -9,6 +7,8 @@ ADB Player; filmlerini, dizilerini ve kişisel medya arşivini keşfetmeni, fark
 **[⬇️ ADB Player'ı indir](https://github.com/sineturk/ADB-Player-Android/releases/latest)** · **[📋 Tüm sürümler](https://github.com/sineturk/ADB-Player-Android/releases)** · **[💬 Hata ve öneriler](https://github.com/sineturk/ADB-Player-Android/issues/new/choose)**
 
 ---
+
+**İlk public Android sürümü: v0.5.5 — tüm mevcut oynatma ve kaynak özellikleri ücretsiz.**
 
 ## ✨ ADB Player ile neler yapabilirsin?
 
@@ -69,7 +69,7 @@ Bir filmin elindeki sürümünde Türkçe dublaj yok mu? **Telefonundaki veya Te
 3. İstersen **Keşfet** ekranını ve Stremio uyumlu eklentileri kullan.
 4. Favorilerini, izleme listeni ve kaldığın yeri ADB Player üzerinden takip et.
 
-> **Bilmen gerekenler:** İlk public sürümde mevcut oynatma, kaynak ve eklenti özellikleri ücretsiz olarak sunulacaktır. ADB Cloud senkronizasyonu ve üçüncü taraf hizmetler için ilgili hesaplarla giriş yapmak gerekebilir. Çevrimiçi oynatma performansı internet bağlantına ve içerik sağlayıcısına bağlıdır. Arşiv desteği bütün sıkıştırma yöntemlerini kapsamaz. ADB Player, üçüncü taraf içeriklerin veya eklentilerin erişilebilirliğini garanti etmez.
+> **Bilmen gerekenler:** ADB Player v0.5.5'te mevcut oynatma, kaynak ve eklenti özellikleri ücretsiz olarak sunulur; Premium üyelik gerekmez. ADB Cloud senkronizasyonu ve üçüncü taraf hizmetler için ilgili hesaplarla giriş yapmak gerekebilir. Çevrimiçi oynatma performansı internet bağlantına ve içerik sağlayıcısına bağlıdır. Arşiv desteği bütün sıkıştırma yöntemlerini kapsamaz. ADB Player, üçüncü taraf içeriklerin veya eklentilerin erişilebilirliğini garanti etmez.
 
 ## 📥 İndirme ve güncellemeler
 
